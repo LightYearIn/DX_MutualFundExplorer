@@ -14,7 +14,7 @@
         changeEvent.setParams({
             "value": component.get("v.selectedValue")
         });
-        changeEvent.fire();
+        changeEvent.fire(); //This comment has been added for nothing.
     }
     
 })
