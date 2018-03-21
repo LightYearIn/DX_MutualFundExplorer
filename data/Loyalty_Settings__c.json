@@ -1,0 +1,22 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Loyalty_Settings__c",
+                "referenceId": "Loyalty_Settings__cRef1"
+            },
+            "Name": "a020k000002IAys",
+            "Email__c": "lbk1@news.com.au",
+            "Points__c": 12122
+        },
+        {
+            "attributes": {
+                "type": "Loyalty_Settings__c",
+                "referenceId": "Loyalty_Settings__cRef2"
+            },
+            "Name": "Loyalty Settings (Profile)",
+            "Email__c": "lbk@news.com.au",
+            "Points__c": 17287
+        }
+    ]
+}
